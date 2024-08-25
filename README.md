@@ -17,10 +17,8 @@ Here are some ideas to get you started:
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cruellaDev&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cruellaDev&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cruellaDev&layout=compact&theme=radical" alt="Top Languages" style="height: 195px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=cruellaDev&show_icons=true&theme=radical" alt="GitHub Stats" style="height: 195px;"/>
 </p>
 
 ---
