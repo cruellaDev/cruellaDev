@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 ---
 
-### Badges
+### 🚀 Badges
 
 <a href="https://hhpluscertificateofcompletion.oopy.io/">
   <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_brown.svg" />
