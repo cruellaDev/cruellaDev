@@ -17,8 +17,14 @@ Here are some ideas to get you started:
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cruellaDev&layout=compact&theme=radical" alt="Top Languages" style="height: 195px;"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=cruellaDev&show_icons=true&theme=radical" alt="GitHub Stats" style="height: 195px;"/>
+  <img
+    height="180"
+    src="https://github-readme-stats.shion.dev/api?username=cruellaDev&show_icons=true&theme=radical"
+  />
+  <img
+    height="180"
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=cruellaDev&layout=compact&langs_count=8&card_width=320&theme=radical"
+  />
 </p>
 
 ---
